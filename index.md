@@ -12,5 +12,3 @@ _Italic_
 ##Heading2
 
 [LinkToLabReports](https://charlotqi.github.io/cse15l-lab-reports/)
-
-![alt](http://globe-views.com/dcim/dreams/apple/apple-01.jpg)
