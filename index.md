@@ -15,11 +15,4 @@ _Italic_
 
 ![alt](https://petsreporter.com/wp-content/uploads/2020/11/Weird-Cat-Behaviors-Explained-1.jpg)
 
-This is `Inline code`
-`class helloWorld{
-  public void main{
-    System.out.println("Hello World!")
-    }
-  }
-}
-`
+This is `Inline code` `print("Hello World")`
