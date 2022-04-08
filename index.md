@@ -8,4 +8,4 @@ _Italic_
 **Bold**
 ##Heading2
 [LinkToLabReports](https://charlotqi.github.io/cse15l-lab-reports/)
-![alt](https://pngimg.com/image/12405)
+![alt](https://pngimg.com/uploads/apple/apple_PNG12405.png)
