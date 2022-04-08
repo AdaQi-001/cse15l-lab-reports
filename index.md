@@ -12,4 +12,4 @@ _Italic_
 ##Heading2
 
 [LinkToLabReports](https://charlotqi.github.io/cse15l-lab-reports/)
-![alt](https://pngimg.com/uploads/apple/apple_PNG12405.png = 250x250)
+![alt](https://pngimg.com/uploads/apple/apple_PNG12405.png|height = 100pt)
