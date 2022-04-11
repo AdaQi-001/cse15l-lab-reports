@@ -43,5 +43,3 @@ Now utilize the `ssh-keygen` program, where two files are created in this proces
  $ cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI
 ```
 ![Image](ScreenShot7.png)
-
-7
