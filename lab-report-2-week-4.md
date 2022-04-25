@@ -31,7 +31,7 @@ The symptom is that java threw an IndexOutofBoundsException. The bug is that whe
 
 # Third code change
 **Screenshot of the code change diff from Github**
-![Image](lab2.2.png)
+![Image](lab2.2.1.png)
 
 **Link to the test file for a failure-inducing input that prompted you to make that change**
 [test-file8.md](https://github.com/h4yuan/markdown-parse/blob/main/test-file8.md)
