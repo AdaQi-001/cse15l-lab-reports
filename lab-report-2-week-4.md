@@ -4,7 +4,7 @@
 ![Image](lab2.1.png)
 
 **Link to the test file for a failure-inducing input that prompted you to make that change**
-[imageTest.md](https://github.com/h4yuan/markdown-parse/blob/main/imageTest.md)
+[test-file.md](https://github.com/CharlotQi/cse15l-lab-reports/blob/main/test-file.md)
 
 **Symptom of that failure-inducing input**
 ![Image](lab2.2.2.png)
@@ -19,7 +19,7 @@ The failure-inducing input(imageTest.md) only have two images. The symptom is th
 
 
 **Link to the test file for a failure-inducing input that prompted you to make that change**
-[noLinkFile.md](https://github.com/h4yuan/markdown-parse/blob/main/noLinkFile.md)
+[noLinkFile.md](https://github.com/CharlotQi/cse15l-lab-reports/blob/main/noLinkFile.md)
 
 **Symptom of that failure-inducing input**
 ![Image](lab2.3.3.png)
@@ -34,7 +34,7 @@ The symptom is that java threw an IndexOutofBoundsException. The bug is that whe
 ![Image](lab2.2.1.png)
 
 **Link to the test file for a failure-inducing input that prompted you to make that change**
-[test-file8.md](https://github.com/h4yuan/markdown-parse/blob/main/test-file8.md)
+[test-file8.md]()
 
 **Symptom of that failure-inducing input**
 ![Image](lab2.3.png)
