@@ -15,15 +15,17 @@ Create it in a new file called lab-report-3-week-6 so that it gets a new page on
 
 ## Set up Github Access from ieng6
 * Show where the public key you made is stored on Github and in your user account (screenshot).
+![LR3.13.jpg](LR3.13.jpg)
 ![LR3.4.jpg](LR3.4.jpg)
+![LR3.05.jpg](LR3.05.jpg)
 
 * Show where the private key you made is stored on your user account (but not its contents) as a screenshot.
 ![LR3.5.jpg](LR3.5.jpg)
 
 * Show running git commands to commit and push a change to Github while logged into your ieng6 account.
-![LR3.6.jpg](LR3.6.jpg)
-( Show a link for the resulting commit.
- .ssh/config
+![LR3.6.2jpg](LR3.6.2jpg)
+( Show a link for the resulting commit.)
+
  
 ## Copy whole directories with scp -r
 * Show copying your whole markdown-parse directory to your ieng6 account.
