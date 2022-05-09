@@ -2,7 +2,7 @@
 
 Create it in a new file called lab-report-3-week-6 so that it gets a new page on your site, and add a link to the page to the index of your site. You will submit it to Gradescope as usual as a few links.
 
-## StreamliningsshConfiguration
+## Stream lining ssh Configuration
 
 * Show your file, and how you edited it (with VScode, another program, etc)
 ![LR3.1.jpg](LR3.1.jpg)
@@ -11,9 +11,9 @@ Create it in a new file called lab-report-3-week-6 so that it gets a new page on
 ![LR3.2.jpg](LR3.2.jpg)
 
 * Show an scp command copying a file to your account using just the alias you chose.
-![LR3,3.jpg](LR3,3.jpg)
+![LR3.02.jpg](LR3.02.jpg)
 
-## SetupGithubAccessfromieng6
+## Set up Github Access from ieng6
 * Show where the public key you made is stored on Github and in your user account (screenshot).
 ![LR3.4.jpg](LR3.4.jpg)
 
@@ -25,7 +25,7 @@ Create it in a new file called lab-report-3-week-6 so that it gets a new page on
 ( Show a link for the resulting commit.
  .ssh/config
  
-## Copywholedirectorieswith scp -r
+## Copy whole directories with scp -r
 * Show copying your whole markdown-parse directory to your ieng6 account.
 ![LR3.2.jpg](LR3.2.jpg)
 
